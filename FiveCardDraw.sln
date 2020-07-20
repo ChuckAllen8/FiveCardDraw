@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30204.135
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FiveCardDraw", "FiveCardDraw.csproj", "{81CE77D1-5334-4CE6-8BD4-219154FBA8DA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{81CE77D1-5334-4CE6-8BD4-219154FBA8DA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{81CE77D1-5334-4CE6-8BD4-219154FBA8DA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{81CE77D1-5334-4CE6-8BD4-219154FBA8DA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{81CE77D1-5334-4CE6-8BD4-219154FBA8DA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {EF101317-FE0C-4683-9846-DD52AF03895A}
+	EndGlobalSection
+EndGlobal
