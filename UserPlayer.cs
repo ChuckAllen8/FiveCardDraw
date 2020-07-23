@@ -20,10 +20,10 @@ namespace Playing_Cards
             Console.WriteLine($"You are allowed to replace {maxReplacable} cards.");
             while (replacing)
             {
-                Console.Write("Enter the number (1-5) of a card to replace, or (D)one: ");
+                Console.Write("Enter the number (1-5) of a card to replace, or (D)one/(E)nter: ");
                 string toReplace = Console.ReadLine();
                 int index;
-                if (toReplace != "" && toReplace.ToUpper()[0] == 'D')
+                if (toReplace == "" || toReplace.ToUpper()[0] == 'D' || toReplace.ToUpper()[0] == 'E')
                 {
                     Console.WriteLine();
                     break;
